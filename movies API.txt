@@ -1,0 +1,10 @@
+API=3fcab612aec23e3f34fc7048433dbd11
+Poster Path=http://image.tmdb.org/t/p/
+base URL=http://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=[YOUR API KEY]
+
+
+Picasso.with(getActivity()).load("http://image.tmdb.org/t/p"+poster).into(re[i]);
+
+trailer=http://api.themoviedb.org/3/movie/id/videos?
+
+review=http://api.themoviedb.org/3/movie/id/reviews?
